@@ -1,6 +1,6 @@
 # Login System with Codeigniter Shield
 
-This project can be run by folowing steps:
+This project can be run by following steps:
 1. Clone the project with "git clone https://github.com/iamsumedh91/azeera.git".
 2. Create a Mysql database named "azeera".
 3. In the project root, run "php spark migrate --all". This will migrate the required CIShield tables to the database.
